@@ -1,0 +1,814 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cogitations upon death, or, The mirror of mans misery being very choice and profitable lessons, for putting all Christians in a prepared condition for mortality.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02252</idno>
+            <idno type="STC">Wing C4892BA</idno>
+            <idno type="STC">ESTC R171862</idno>
+            <idno type="EEBO-CITATION">52614572</idno>
+            <idno type="OCLC">ocm 52614572</idno>
+            <idno type="VID">175802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175802)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2751:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cogitations upon death, or, The mirror of mans misery being very choice and profitable lessons, for putting all Christians in a prepared condition for mortality.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The 6th ed. corrected and amended.</edition>
+               </editionStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [s.n.],</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>in the year, 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+                  <note>At end: A dialogue bewixt Charon (i.e. Satan, the ferry-man of Hell) and contention, that dangerous, wicked, and horrid hellish sin. To the tune of, Through and though the rainy bow. P. 15-16.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Religious aspects --  Christianity --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175802:1" rendition="simple:additions"/>
+            <pb facs="tcp:175802:1" rendition="simple:additions"/>
+            <pb facs="tcp:175802:2"/>
+            <pb facs="tcp:175802:2"/>
+            <pb facs="tcp:175802:3"/>
+            <pb facs="tcp:175802:3" rendition="simple:additions"/>
+            <p>Cogitations upon DEATH, OR, The Mirrour of Mans MISERY</p>
+            <p>
+               <hi>Being very choiſe and profit<g ref="char:EOLhyphen"/>able Leſſons, for putting all Chri<g ref="char:EOLhyphen"/>ſtians in a prepared condition for Mortality.</hi>
+            </p>
+            <p>The Sixth Edition Corrected and amended.</p>
+            <p>EDINBURGH, Printed in the Year, 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:175802:4"/>
+            <head>The Mirrour of Mans Miſerie.</head>
+            <lg>
+               <l>I Have ſuch Dread when <hi>I</hi> ſhould die,</l>
+               <l>Not knowing where, nor in what place<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Through courſe of kind he comes to m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Into his Armes would me imbrace:</l>
+               <l>He ſpares not the Rich for their riche<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Nor on the Poor hath no pitie,</l>
+               <l>This cauſeth me to ſay alas,</l>
+               <l>
+                  <hi>And have ſuch Dread, when I ſhould Die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When Ily ſick on my Death bed,</l>
+               <l>And all my life brought to an end;</l>
+               <l>Then all the ſins that ever I did,</l>
+               <l>Will all compear into my mind.</l>
+               <l>Crying, we are all workes of thine,</l>
+               <l>And now we are to go with thee;</l>
+               <l>To bear witneſs what thou haſt done,</l>
+               <l>
+                  <hi>This makes me Dread, when</hi> I <hi>ſhould Die<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then growth of grief, and great deſpair</l>
+               <l>Will melt my heart, and break my gall</l>
+               <l>That for my fleſh <hi>I</hi> took ſuch care,</l>
+               <l>But gain'd no grace for my poor Soul:</l>
+               <pb n="3" facs="tcp:175802:4"/>
+               <l>And now no time remains at all,</l>
+               <l>To mend my life that none may ſee;</l>
+               <l>But go to judgement generall,</l>
+               <l>
+                  <hi>This makes me Dread, when I ſhould Die,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then when my Breath begins to fail,</l>
+               <l>My feet and Hands they loſe their might,</l>
+               <l>My fear is for the Fiends of Hell,</l>
+               <l>For they come fleeing on a flight,</l>
+               <l>And every on ſhall ſee that ſight,</l>
+               <l>For at our ending they ſhall be,</l>
+               <l>Reaving our ſouls if they have right,</l>
+               <l>
+                  <hi>This makes me Dread when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And then <hi>I</hi> fear that bitter Pain,</l>
+               <l>How Death ſhall come and break my heart</l>
+               <l>With many Thrach and grievous Groan,</l>
+               <l>When he ſhall ſtrick me with his Dart:</l>
+               <l>He will make me to feel the ſmart,</l>
+               <l>And ſtreams of death moſt cruellie;</l>
+               <l>Before my Life from me departs,</l>
+               <l>
+                  <hi>Which makes me Dread when I ſhould Die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And then <hi>I</hi> fear that wilſom way,</l>
+               <l>Where I muſt wend when I am gone;</l>
+               <l>For none comes back by night nor day,</l>
+               <l>Their friends and Neighbours to forwarn,</l>
+               <l>whether they be in joy or Pain,</l>
+               <pb n="4" facs="tcp:175802:5"/>
+               <l>They muſt remain continuallie,</l>
+               <l>For we are valu'd to our worth;</l>
+               <l>
+                  <hi>This makes me Dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I fear what ſhall become of me,</l>
+               <l>In that great day of God's juſt wrath,</l>
+               <l>When furious flames of fire on hie,</l>
+               <l>O're ſpreads the face of all the earth.</l>
+               <l>Who will conſume all his Creatures,</l>
+               <l>Both Man and Beaſt; and Fowls that flie.</l>
+               <l>And every thing that draweth breath</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then Chriſt the King of righteouſneſs,</l>
+               <l>Who ruleth all at his command,</l>
+               <l>Will come with glory through the skyes,</l>
+               <l>With Angels bright a full great band:</l>
+               <l>Then round about him they ſhall ſtand.</l>
+               <l>Beholding ſtill his Majeſtie,</l>
+               <l>His face ſhal ſhine through all the land,</l>
+               <l>
+                  <hi>This makes me dread when I ſhould die,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then ſhall he ſend his good Angels,</l>
+               <l>Wich trumpets found both loud, and ſhril,</l>
+               <l>Throughout the parts of all the earth,</l>
+               <l>To raiſe the dead and bring them till;</l>
+               <l>Although it be againſt their will,</l>
+               <l>To come before his Majeſty,</l>
+               <pb n="5" facs="tcp:175802:5"/>
+               <l>Yet force and might will them compel,</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The heavens and earth ſhall flee away,</l>
+               <l>And hide them from his angry face;</l>
+               <l>Before that he begin to try,</l>
+               <l>All ſinners for their wickedneſſe:</l>
+               <l>Alas that is a wofull caſe,</l>
+               <l>For ſinners then in each degree,</l>
+               <l>When heaven and earth ſhal take the chaſe;</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then when the dead both great and ſmall,</l>
+               <l>Shal be brought in for breach of law;</l>
+               <l>Then Chriſt ſhall charge his ſervants all;</l>
+               <l>To ſet them right upon a raw:</l>
+               <l>And he his bloody wounds will ſhaw,</l>
+               <l>Saying, what haſt thou done for me?</l>
+               <l>Then ſinfull men ſhall ſtand great aw;</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And thus our counts begin to make,</l>
+               <l>When we are call'd for our miſdeeds,</l>
+               <l>None ſhall eſcape for any ones ſake,</l>
+               <l>But every one his own roll reads:</l>
+               <l>He ſhall tell forth with all good ſpeed,</l>
+               <l>Both good and evil what ever it be,</l>
+               <l>And every man his ſins ſhall read:</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <pb n="6" facs="tcp:175802:6"/>
+            <lg>
+               <l>Into theſe books there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be written,</l>
+               <l>All their miſdeeds and wicked works;</l>
+               <l>All prophane words that they have ſpoken</l>
+               <l>With all unclean and wandring thoughts,</l>
+               <l>Their love to ſin ſhall be dear bought,</l>
+               <l>For then they ſhal both prove and ſee,</l>
+               <l>Their wage ſhal be as they have wrought</l>
+               <l>
+                  <hi>This makes me Dread when I ſhould Die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The large market of Gods free Grace,</l>
+               <l>That ſtood ay ſince Chriſt Jeſus came,</l>
+               <l>Shal be cry'd down but longer ſpace,</l>
+               <l>And ne're to be proclaim'd again:</l>
+               <l>Becauſe they would not take their time</l>
+               <l>Therefore the gates of His mercie,</l>
+               <l>For ever ſhall be cloſed on them,</l>
+               <l>
+                  <hi>This makes me Dread when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then <hi>Sathan</hi> with a great Armie,</l>
+               <l>Of damned Spirits, will come on flight;</l>
+               <l>Crying O Judge who ſits on hie:</l>
+               <l>On Sinners all now do me right:</l>
+               <l>Who ſet thy law far out of ſight,</l>
+               <l>And ſerved me moſt buſſilie,</l>
+               <l>With care and Pains both day and night,</l>
+               <l>
+                  <hi>This makes me dread when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What malice have ye had at me,</l>
+               <pb n="7" facs="tcp:175802:6"/>
+               <l>Then Chriſt ſhal ſay to ſinners all;</l>
+               <l>That ran to ſerve mine Enemie,</l>
+               <l>And me diſdain'd when I did call;</l>
+               <l>Was <hi>I</hi> and my Reward ſo ſmall?</l>
+               <l>That ye diſdain'd to worſhip Me;</l>
+               <l>Therefore I now diſdain you all;</l>
+               <l>
+                  <hi>This makes me dread when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I</hi> gave you Life like to my ſelf,</l>
+               <l>With wiſdom, wit, and Holineſs:</l>
+               <l>And made you Lords over all the Earth,</l>
+               <l>Both Fiſh and Fowls, and its fulneſs:</l>
+               <l>Yea, over all theſe my Creatures,</l>
+               <l>Which were for your Commoditie,</l>
+               <l>Yet where is all your Thankfulneſs,</l>
+               <l>
+                  <hi>And duty ye did ow to Me:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And after ye broke my Commands,</l>
+               <l>And brought your ſelves in ſnare of death:</l>
+               <l>
+                  <hi>I</hi> leſs my glorie in the Heavens,</l>
+               <l>And came to earth for your relief:</l>
+               <l>To ſuffer ſorrow, pain and grief,</l>
+               <l>With ſcorn diſgrace and miſerie;</l>
+               <l>Yet where is all your thankfulneſs,</l>
+               <l>
+                  <hi>For theſe my good deeds done for thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For you they bound me like a thief,</l>
+               <l>My naked Skin with ſcourges dang;</l>
+               <pb n="8" facs="tcp:175802:7"/>
+               <l>They plet and put upon my head,</l>
+               <l>A Crown of thorns both ſharp and lang:</l>
+               <l>My ſight grew dim, my head down han<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>I loſt my life moſt painfullie;</l>
+               <l>But now where's all your thankfulneſſe</l>
+               <l>
+                  <hi>For theſe my ſufferings done for thee?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And then they led me to the croſs.</l>
+               <l>And nail'd me faſt both feet and hand,</l>
+               <l>Full oft they ſpat into my face,</l>
+               <l>A ſpear out through my ſides they ran:</l>
+               <l>The ſtreams of blood that then out ſpran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Ran down my ſide moſt pitteouſlie;</l>
+               <l>But now no part ye have therein,</l>
+               <l>
+                  <hi>Which may thee dread, when thou'rt to die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You have imbrac'd more joyfulneſſe,</l>
+               <l>In one hours pleaſure of your ſin,</l>
+               <l>Than all the love you had to me,</l>
+               <l>Since I put life your breaſt within:</l>
+               <l>Although for you my blood did ran,</l>
+               <l>Out through my ſides abundantlie,</l>
+               <l>Yet now no part you have therein,</l>
+               <l>
+                  <hi>Which may thee dread, when thou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt to die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When Chriſt begins for to propone,</l>
+               <l>The dreadful doom of life and death;</l>
+               <l>The hopleſs ſoul ſhall faint and groan,</l>
+               <pb n="9" facs="tcp:175802:7"/>
+               <l>Before the ſentence pafs their teeth:</l>
+               <l>With weeping eyes and doleful voice,</l>
+               <l>They ſhal lament moſt pitteouſlie,</l>
+               <l>That ever they were made alas!</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They ſhall be ſafe I dare well ſay,</l>
+               <l>Who are well rul'd at his right hand;</l>
+               <l>And paſs to heaven the ſelf ſame day,</l>
+               <l>With muſick, mirth, and Angels ſound:</l>
+               <l>But wretches all who have done wrong,</l>
+               <l>Shal cry to hills and mountains hie,</l>
+               <l>That they would fall down upon them,</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then in his wrath he ſhall cry forth,</l>
+               <l>Depart from me ye curſed band,</l>
+               <l>For on the poor ye had no truth,</l>
+               <l>Nor ſtood in aw at my command:</l>
+               <l>Therefore go hence from my right hand,</l>
+               <l>My face again ye ſhal ne're ſee;</l>
+               <l>But ay in darkneſſe to remain,</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then fra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their doom be once out gone,</l>
+               <l>Remeed ſhal then be paſt for ay;</l>
+               <l>Tho they would weep &amp; make great moan,</l>
+               <l>Even while their eyen would melt away:</l>
+               <pb n="10" facs="tcp:175802:8"/>
+               <l>And tho they would both kneel and pay,</l>
+               <l>Even till their fleſh wore from their knee,</l>
+               <l>Yet all ſhal not avail that day,</l>
+               <l>
+                  <hi>This makes me dread when I ſhould Die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And then though all the Saints in Heaven,</l>
+               <l>And eke the Glorious Angels all;</l>
+               <l>Would kneel down at the feet of Chriſt,</l>
+               <l>And Mercy beg for one poor Soul:</l>
+               <l>Yet Chriſt would then deny them all,</l>
+               <l>And ſay, nay, nay, that may not be:</l>
+               <l>They would not hear when I did call,</l>
+               <l>
+                  <hi>This makes me dread when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then hope of Health they ſhal give o're,</l>
+               <l>When Crys and Tears can make no ſtead,</l>
+               <l>And then Blaſpheme for great deſpair;</l>
+               <l>And curſe the thing that did them good:</l>
+               <l>Yea, curſe the Father them begat,</l>
+               <l>The Mother them bear in her Bellie;</l>
+               <l>And eke the Earth whereon they ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould Die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then God who gave them Life and Breath<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And made them all of Duſt and Clay,</l>
+               <l>They ſhal Hiſh curſe into his Face,</l>
+               <l>Becauſe he hath caſt them away:</l>
+               <l>Crying, wo, wo, and well-away,</l>
+               <pb n="11" facs="tcp:175802:8"/>
+               <l>That ever we this day did ſee,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or we are loſt for ever and ay;</l>
+               <l>
+                  <hi>This makes me dread, when</hi> I <hi>ſhould die</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The precious blood of Chriſt Jeſus,</l>
+               <l>They ſhall it curſe with great diſdain;</l>
+               <l>That bought ſo many thouſand ſouls,</l>
+               <l>Becauſe no drop was ſhed for them:</l>
+               <l>To ſave them from that bitter pain,</l>
+               <l>Which by no craft they now can flee,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or yet by force or might or main,</l>
+               <l>
+                  <hi>This makes me dread when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But Chriſt he will not ſuffer long,</l>
+               <l>Them to blaſpheme in his preſence:</l>
+               <l>But ſoon will bid eaſt over them,</l>
+               <l>In the black vail of his Vengeance:</l>
+               <l>And then lead them away from thence,</l>
+               <l>And caſt them in with that menzle,</l>
+               <l>Into that pit of endleſs pain,</l>
+               <l>
+                  <hi>This makes me dread when I ſhould die</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then Chriſt ſhall cloſe the mouth of Hell,</l>
+               <l>And bar from the light of day;</l>
+               <l>Then ſhal they all both ſhout and yell,</l>
+               <l>When Fleſh and Blood begins to fry:</l>
+               <l>In fyrie flames moſt furiouſly,</l>
+               <l>Without all hope to be ſet free,</l>
+               <pb n="12" facs="tcp:175802:9"/>
+               <l>For ever more therein to ly,</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then ſhal they ſwarm in that great flame</l>
+               <l>Like worms into an earthly fire:</l>
+               <l>And they therein ſhal ſtill remain.</l>
+               <l>Whileſt that Gods wrath begin to tyre;</l>
+               <l>But ſure that time will never come,</l>
+               <l>That Gods juſt wrath reveng'd will be,</l>
+               <l>Upon their filly ſou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s for ſin,</l>
+               <l>
+                  <hi>This makes me dread, when</hi> I <hi>ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Alas! it is a longſome night,</l>
+               <l>Where day will never dawn again;</l>
+               <l>Alas it is a fearful ſight,</l>
+               <l>Where there is everlaſting pain.</l>
+               <l>Alas, that we ary longſome cry,</l>
+               <l>Which God nor man will not pittie,</l>
+               <l>Nor hear their moan wherein they lie,</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe blaſphemers who ſtand no aw,</l>
+               <l>Gods holy name for to abuſe;</l>
+               <l>But makes it like a childi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ba,</l>
+               <l>To catch it on where ever they pleaſe:</l>
+               <l>Their ſouls ſhal then get no more eaſe</l>
+               <l>But in thoſe flames ſhal ſcorched be,</l>
+               <l>By wicked ſpirits and damned devils,</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <pb n="13" facs="tcp:175802:9"/>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſe Glurtons and theſe Drunkards all,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho makes a god of their bellie;</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t gains no grace for their poor ſoul,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al then be forc'd to cry ſorelie;</l>
+               <l>For one ſmal drop of cold water,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd yet it ſhal not granted be,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o cool their tongues in flaming fire,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe whores who had no modeſtie,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or anie ſhame, or ſaving grace;</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t lived in luſt and lecherie.</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nting their preys in every place:</l>
+               <l>Their armes ſhal then be made imbrace,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth night and day continuallie,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he doolful flames of black darkneſſe,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe proud perſons who brags and boaſt</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f honour wealth and their great Kin;</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t cares nothing to honour Chriſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ejecting ſaints belongs to him:</l>
+               <l>Theſe Idols Chriſt ſhal put from them,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd cloath them all moſt dolefullie,</l>
+               <l>With long black Robs of laſting ſhame,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is makes me dread, when I ſhould die.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe covetous and worldlie wormes,</l>
+            </lg>
+            <pb n="14" facs="tcp:175802:10"/>
+            <lg>
+               <l>Who puts their truſt in their Riches,</l>
+               <l>And will not deal the Poor their Alms,</l>
+               <l>When they ſtand crying at their Gates:</l>
+               <l>Therefore in Hell they ſhal be ſure,</l>
+               <l>To cry out for recoverie,</l>
+               <l>VVhere there is none them to relieve,</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe Murderers and common Thieves,</l>
+               <l>VVho labours not with honeſtie,</l>
+               <l>But ſets themſelves to Steal and Reave,</l>
+               <l>As if there were no God to ſee;</l>
+               <l>The Lord ſhal then bereave them all,</l>
+               <l>Of all his Gifts and his Glorie,</l>
+               <l>And baniſh them all to Hells pain;</l>
+               <l>
+                  <hi>This makes me dread, when I ſhould die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To ſing I will no longer ſtay,</l>
+               <l>For fear that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do you moleſt;</l>
+               <l>Of choiſes now I have but two,</l>
+               <l>Therefore be ſure to choiſe the beſt:</l>
+               <l>The firſt is Love, Joy, Peace and Reſt</l>
+               <l>The next is Pain without pitie,</l>
+               <l>For we are call'd away in haſte,</l>
+               <l>
+                  <hi>This makes me dread, when</hi> I <hi>ſhould die:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Therefore my counſel to us all,</l>
+               <l>Is to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and mend with ſpeed;</l>
+               <pb n="15" facs="tcp:175802:10"/>
+               <l>And to prepare for the poor ſoul,</l>
+               <l>Before the time be paſt remeed:</l>
+               <l>And ay hold Sin at deadly feed,</l>
+               <l>And ſerve our God moſt carefullie,</l>
+               <l>Then ſhall we have no cauſe to dread</l>
+               <l>
+                  <hi>Nor fear the time that we ſhould die.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="verse_dialog">
+            <head>A Dialogue bewtixt <hi>Charon (i. e. Satan,</hi> the ferry-man of <hi>Hell)</hi> and <hi>Contention,</hi> that dangerous, wicked and horrid helliſh Sin.</head>
+            <opener>To the Tune of, <hi>Through and through the Rainy Bow,</hi>
+            </opener>
+            <sp>
+               <speaker>Contention.</speaker>
+               <lg>
+                  <l>HAve o're, have o're the <hi>Stygian</hi>
+                  </l>
+                  <l>
+                     <hi>Charon,</hi> why do'ſt thou ſtay man?</l>
+                  <l>Quickly prepare they Sails and Oares,</l>
+                  <l>And make no more del<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y man:</l>
+                  <l>They Ferrie-Boat is now on float,</l>
+                  <l>Through favour of the tyde man;</l>
+                  <l>Therefore make haſte to have me plac'd</l>
+                  <l>Upon you yonder ſide man.</l>
+               </lg>
+            </sp>
+            <pb n="16" facs="tcp:175802:11" rendition="simple:additions"/>
+            <sp>
+               <speaker>Charon.</speaker>
+               <lg>
+                  <l>Who's there that calls, and makes ſuch brawl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Becauſe that I do tarrie?</l>
+                  <l>I will not come till I ſee ſome</l>
+                  <l>To be a fraught to carrie:</l>
+                  <l>For I am old, both ſtiff and cold,</l>
+                  <l>Beſides the ſea's ſo ragious,</l>
+                  <l>And I ſuppone for one alone,</l>
+                  <l>A two pence is ſmall wages.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Contention.</speaker>
+               <lg>
+                  <l>It's idle chate that thou doſt prat,</l>
+                  <l>Behold, I have a groat man,</l>
+                  <l>May ſerve to be a double fee,</l>
+                  <l>For rowing of thy boat man:</l>
+                  <l>Beſides I ſend, as is well kend,</l>
+                  <l>Though thou eſteem it nought man,</l>
+                  <l>Of Souls each year a thouſand near,</l>
+                  <l>And thou receives their fraught man.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Charon.</speaker>
+               <p>&amp;c.</p>
+            </sp>
+         </div>
+         <div type="to_the_reader">
+            <p>
+               <hi>Any perſon who hath any more of thoſe Verſes, which was an excellent good Ballant</hi> 50. <hi>years ago, let them ſend them to the Printers hands in writ, whereby they may be printed and publiſhed.</hi>
+            </p>
+            <pb facs="tcp:175802:11"/>
+            <pb facs="tcp:175802:12"/>
+            <pb facs="tcp:175802:12"/>
+            <pb facs="tcp:175802:13"/>
+            <pb facs="tcp:175802:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
